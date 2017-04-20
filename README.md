@@ -1,4 +1,7 @@
-# test coverage for  [thinky (v2.3.8)](https://github.com/neumino/thinky#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-thinky.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thinky) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thinky.svg)](https://travis-ci.org/npmtest/node-npmtest-thinky)
+# npmtest-thinky
+
+#### basic test coverage for  [thinky (v2.3.8)](https://github.com/neumino/thinky#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-thinky.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thinky) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thinky.svg)](https://travis-ci.org/npmtest/node-npmtest-thinky)
+
 #### RethinkDB ORM for Node.js
 
 [![NPM](https://nodei.co/npm/thinky.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/thinky)
